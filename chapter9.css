@@ -74,6 +74,8 @@ footer {
  
   .box {
    width: 90%;
+   margin: 0 auto;
+   
   }
   
   .step1,.step2 {
